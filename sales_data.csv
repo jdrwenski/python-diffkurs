@@ -1,4 +1,4 @@
-Product_ID,Product_Name,Sales_Date,Sales_Quantity,Price
+Purchase_ID,Product_Name,Sales_Date,Sales_Quantity,Price
 1,Product_A,2024-04-01,10,50
 2,Product_B,2024-04-01,5,100
 3,Product_C,2024-04-02,8,75
